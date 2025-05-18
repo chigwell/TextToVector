@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='TextToVector',
-    version='0.1.2',
+    version='2025.5.180916',
     author='Eugene Evstafev',
     author_email='ee345@cam.ac.uk',
     description='A package to convert text into embedding vectors using Hugging Face models.',
